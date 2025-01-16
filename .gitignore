@@ -1,0 +1,23 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+*.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Output and reports
+data/outputs/
+data/outputs/reports/
+data/outputs/charts/
+
+# System-specific files
+.DS_Store
+Thumbs.db
