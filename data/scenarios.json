@@ -1,0 +1,25 @@
+{
+    "scenarios": [
+      {
+        "name": "Optimistic",
+        "cost_synergy": 0.2,
+        "revenue_synergy": 0.3,
+        "operational_synergy": 0.15,
+        "adjustments": {
+          "Revenue": 1.1,
+          "Cost": 0.9
+        }
+      },
+      {
+        "name": "Pessimistic",
+        "cost_synergy": 0.1,
+        "revenue_synergy": 0.1,
+        "operational_synergy": 0.05,
+        "adjustments": {
+          "Revenue": 0.9,
+          "Cost": 1.1
+        }
+      }
+    ]
+  }
+  
